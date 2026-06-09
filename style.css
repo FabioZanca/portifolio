@@ -55,6 +55,21 @@
     padding: 1%;
 }
 
+.projeto{
+    background-color: #156397;
+    padding: 20px;
+    border-radius: 10px;
+    text-align:center;
+}
+
+.projeto img{
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+}
+
 
 .html{
 background-color: #156397;;
